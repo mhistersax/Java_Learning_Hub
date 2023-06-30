@@ -20,8 +20,7 @@ Whether you are a beginner taking your first steps in Java programming or an int
 
 **Note:** This repository is open-source, and contributions from the community are encouraged. Feel free to contribute your own learning materials, examples, and projects to help fellow students on their Java learning journey. Let's learn and grow together!
 <hr/>
-##
-## Getting Started
+<strong style="font-weight='bolder'">Getting Started</strong>
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
