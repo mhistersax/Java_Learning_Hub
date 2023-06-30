@@ -19,7 +19,7 @@ The Java Learning Hub is a comprehensive repository designed to assist students 
 Whether you are a beginner taking your first steps in Java programming or an intermediate learner looking to deepen your understanding, the Java Learning Hub is your go-to resource. Join the Java community, expand your coding skills, and unlock the potential of this powerful programming language.
 
 **Note:** This repository is open-source, and contributions from the community are encouraged. Feel free to contribute your own learning materials, examples, and projects to help fellow students on their Java learning journey. Let's learn and grow together!
-
+<hr/>
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
